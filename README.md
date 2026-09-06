@@ -2,7 +2,7 @@
 
 An analysis of 96,184 delivered orders (Jan 2017 – Aug 2018) answering a stakeholder question about declining retention.
 
-**[Read the memo →](docs/03_memo.md)**
+**[Read the memo →](03_memo.md)**
 
 ---
 
