@@ -32,7 +32,8 @@ Full brief: [docs/00_stakeholder_brief.md](docs/00_stakeholder_brief.md)
 
 ## Dashboard
 
-<img width="940" height="526" alt="image" src="https://github.com/user-attachments/assets/fd15957b-760b-48fb-9d4b-38248f004f8c" />
+<img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/61b816c4-604a-4196-8d5b-0282968e0e8e" />
+
 <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/a6d1e3cb-f5e4-460d-b860-5e8464441fe5" />
 
 Built in Power BI. Source file: `dashboard/olist_retention.pbix`
